@@ -1,10 +1,8 @@
 {
   "expo": {
-    "name": "bistroapps-print-app",
-    "slug": "bistroapps-print-app",
+    "name": "expo-bare-workflow-template",
+    "slug": "expo-bare-workflow-template",
     "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
+    "assetBundlePatterns": ["**/*"]
   }
 }
