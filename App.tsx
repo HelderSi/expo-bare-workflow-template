@@ -14,7 +14,7 @@ export default function App() {
     DMSerifDisplay_400Regular,
   });
 
-  if (fontsLoaded) {
+  if (!fontsLoaded) {
     return <AppLoading />;
   }
 
